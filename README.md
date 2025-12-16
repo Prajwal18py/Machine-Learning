@@ -1,2 +1,8 @@
-# Working-with-CSV-Files-in-Python
-This repository demonstrates how to fetch, read, write, and analyze CSV files using Python. It covers loading data from local files and online sources, handling rows and columns with pandas, performing basic data cleaning, and preparing CSV data for data analysis and machine learning workflows.
+# Machine Learning Daily Practice
+
+This repository contains my **daily work and practice in Machine Learning**, focusing on:
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Algorithms
+
+The goal of this repository is to consistently practice ML concepts and track progress over time.
